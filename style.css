@@ -125,6 +125,11 @@ section .val{
     font-size: 1.5em;
     z-index: 11;
     transform: translateY(150px);
+    transition: 0.3s;
+}
+.btn:hover{
+    background: #76dce4;
+    color: white;
 }
 .sec{
     position: relative;
