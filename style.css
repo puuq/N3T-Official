@@ -103,14 +103,14 @@ section .omen{
 section .val{
     position: absolute;
     width: 15%;
-    top: 10%;
+    top: 5%;
 }
 .agents{
     z-index: 10;
 }
 .text{
     position: absolute;
-    color: white;
+    color: purple;
     white-space: nowrap;
     font-size: 7.5vw;
     z-index: 9;
